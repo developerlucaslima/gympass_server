@@ -1,6 +1,6 @@
 ## RFs (Functional Requirements)
  - [X] User registration must be possible;
- - [ ] User authentication must be possible;
+ - [X] User authentication must be possible;
  - [ ] Retrieving the profile of a logged-in user must be possible;
  - [ ] Retrieving the number of check-ins performed by the logged-in user must be possible;
  - [ ] The user must be able to retrieve their check-in history;
