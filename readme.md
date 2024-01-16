@@ -1,7 +1,7 @@
 ## RFs (Functional Requirements)
  - [X] User registration must be possible;
  - [X] User authentication must be possible;
- - [ ] Retrieving the profile of a logged-in user must be possible;
+ - [X] Retrieving the profile of a logged-in user must be possible;
  - [ ] Retrieving the number of check-ins performed by the logged-in user must be possible;
  - [ ] The user must be able to retrieve their check-in history;
  - [ ] The user must be able to search for nearby gyms;
@@ -12,8 +12,8 @@
 
 ## RNs (Business Rules)
  - [X] The user must not be able to register with a duplicate email;
- - [ ] The user cannot perform 2 check-ins on the same day;
- - [ ] The user cannot check in if not within proximity (100m) of the gym;
+ - [X] The user cannot perform 2 check-ins on the same day;
+ - [X] The user cannot check in if not within proximity (100m) of the gym;
  - [ ] Check-in can only be validated within 20 minutes of creation;
  - [ ] Check-in validation can only be performed by administrators;
  - [ ] Gyms can only be registered by administrators.
