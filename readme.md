@@ -6,9 +6,9 @@
  - [ ] The user must be able to retrieve their check-in history;
  - [ ] The user must be able to search for nearby gyms;
  - [ ] The user must be able to search for gyms by name;
- - [ ] The user must be able to check in at a gym;
+ - [x] The user must be able to check in at a gym;
  - [ ] Validating a user's check-in must be possible;
- - [ ] Registering a gym must be possible.
+ - [x] Registering a gym must be possible.
 
 ## RNs (Business Rules)
  - [X] The user must not be able to register with a duplicate email;
